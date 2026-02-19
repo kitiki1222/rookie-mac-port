@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Rookie.App/Rookie.App.csproj" />
+  <Project Path="Rookie.Cli/Rookie.Cli.csproj" />
+  <Project Path="Rookie.Core/Rookie.Core.csproj" />
+</Solution>
